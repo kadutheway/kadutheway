@@ -1,4 +1,4 @@
-## 👋 INTRODUÇÃO
+### 👋 INTRODUÇÃO
 
 
 <img align='right' src='tenor.gif' width='200"'>
@@ -8,7 +8,7 @@
 Bem vindo! Eu sou instrutor na **Firjan SENAI Resende** e ministro as unidades curriculares relacionadas a computação.  
 
 
-## 📫 Me procure nas redes sociais
+### 📫 Me procure nas redes sociais
 
 [Facebook](https://facebook.com/kadutheway) ou me escreva ✉️ [Email](mailto:kadutheway@gmail.com) | 💬 [Mensagem](https://github.com/kadutheway/kadutheway/issues/me)
 
