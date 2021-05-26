@@ -1,4 +1,4 @@
-### 👋 INTRODUÇÃO
+### 👋 Olá! Fico feliz que tenha vindo aqui...
 
 
 <img align='right' src='tenor.gif' width='200"'>
