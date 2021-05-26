@@ -12,5 +12,5 @@ Bem vindo! Eu sou instrutor na **Firjan SENAI Resende** e ministro as unidades c
 
 ### 📫 Me procure nas redes sociais
 
-[Facebook](https://facebook.com/kadutheway) ou me escreva ✉️ [Email](mailto:kadutheway@gmail.com) | 💬 [Mensagem](https://github.com/kadutheway/kadutheway/issues/me)
+[Facebook](https://facebook.com/kadutheway) | [Twitter](https://twitter.com/kadutheway) | [Instagram](https://instagram.com/kadutheway) ou me escreva ✉️ [Email](mailto:kadutheway@gmail.com) | 💬 [Mensagem](https://github.com/kadutheway/kadutheway/issues/me)
 
