@@ -5,7 +5,9 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)  ![](https://visitor-badge.glitch.me/badge?page_id=github.com/kadutheway)
 
-Bem vindo! Eu sou instrutor na **Firjan SENAI Resende** e ministro as unidades curriculares relacionadas a computação.
+Eu sou instrutor na **Firjan SENAI Resende** e ministro as unidades curriculares relacionadas a computação.
+
+Também sou um dos Gurus do **Fab Lab da Firjan SENAI Resende**. Lá transformamos inspirações em realidade. 
 
 *Que posso fazer para te ajudar hoje?*
 
