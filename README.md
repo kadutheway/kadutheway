@@ -1,4 +1,4 @@
-### 👋 Olá! Fico feliz que tenha vindo aqui...
+#### 👋 Olá! Fico feliz que tenha vindo aqui...
 
 
 <img align='right' src='tenor.gif' width='200"'>
@@ -12,7 +12,7 @@ Também sou um dos Gurus do **Fab Lab da Firjan SENAI Resende**. Lá transformam
 *Que posso fazer para te ajudar hoje?*
 
 
-### 📫 Me procure nas redes sociais
+#### 📫 Me procure nas redes sociais
 
-[Facebook](https://facebook.com/kadutheway) | [Twitter](https://twitter.com/kadutheway) | [Instagram](https://instagram.com/kadutheway) ou me escreva ✉️ [Email](mailto:kadutheway@gmail.com) | 💬 [Mensagem](https://github.com/kadutheway/kadutheway/issues/me)
+[Facebook](https://facebook.com/kadutheway) | [Twitter](https://twitter.com/kadutheway) | [Instagram](https://instagram.com/kadutheway) ou me escreva ✉️ [Email](mailto:kadutheway@gmail.com)
 
